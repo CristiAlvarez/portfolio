@@ -58,13 +58,13 @@
 
 @keyframes text-reveal-name {
     100% {
-        color: crimson;
+        color: #953cc9;
         font-weight: 500;
     }
 }
 
 #hero h2 span:not(.portada) {
-    background-color: crimson;
+    background-color: #953cc9;
     height: 100%;
     width: 0;
     position: absolute;

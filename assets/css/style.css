@@ -50,14 +50,14 @@ p {
 }
 
 .section-title span {
-    color: crimson;
+    color: #953cc9;
 }
 
 .cta {
     display: inline-block;
     padding: 10px 30px;
     background-color: transparent;
-    border: 2px solid crimson;
+    border: 4px solid #953cc9;
     font-size: 2rem;
     text-transform: uppercase;
     letter-spacing: 0.1rem;
@@ -71,7 +71,7 @@ p {
 
 .cta:hover {
     color: white;
-    background-color: crimson;
+    background-color: #953cc9;
 }
 
 .brand h1 {
@@ -82,7 +82,7 @@ p {
 }
 
 .brand h1 span {
-    color: crimson;
+    color: #953cc9;
     font-size: 35px;
     font-family: serif;
 }
@@ -102,7 +102,7 @@ p {
     min-height: 8vh;
     transition: 0.3s ease background-color;
     background: rgba(255, 255, 255, 0.036);
-    box-shadow: 0 8px 32px 0 rgba(78, 8, 8, 0.37);
+    box-shadow: 0 8px 32px 0 rgba(58, 8, 78, 0.37);
     backdrop-filter: blur(5px);
     border: 1px solid rgba(255, 255, 255, 0.18);
 }
@@ -246,7 +246,7 @@ p {
     transition: color 0.3s ease;
 }
 #header .nav-list ul li:hover a {
-    color: crimson;
+    color: #953cc9;
 }
 
 @media screen and (min-width: 1200px) {
@@ -303,7 +303,7 @@ p {
     left: -100%;
     width: 100%;
     height: 5px;
-    background: linear-gradient(90deg, #ff5733, #ffcc33);
+    background: linear-gradient(90deg, #953cc9, #ebe97e);
     transition: left 0.3s ease;
 }
 
